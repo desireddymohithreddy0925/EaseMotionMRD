@@ -1,3 +1,9 @@
-# Feature: scss-typography-animation (#23073)
-
-Placeholder implementation.
+# SCSS Mixin
+Description: A utility SCSS mixin.
+Parameters: `$color`
+Usage:
+```scss
+.element {
+  @include mixin();
+}
+```
