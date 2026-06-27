@@ -1,3 +1,9 @@
-# Feature: scss-supports-mixin (#23066)
-
-Placeholder implementation.
+# SCSS Mixin
+Description: A utility SCSS mixin.
+Parameters: `$color`
+Usage:
+```scss
+.element {
+  @include mixin();
+}
+```
