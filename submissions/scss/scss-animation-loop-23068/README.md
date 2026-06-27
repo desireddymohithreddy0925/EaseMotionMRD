@@ -1,3 +1,9 @@
-# Feature: scss-animation-loop (#23068)
-
-Placeholder implementation.
+# SCSS Mixin
+Description: A utility SCSS mixin.
+Parameters: `$color`
+Usage:
+```scss
+.element {
+  @include mixin();
+}
+```
